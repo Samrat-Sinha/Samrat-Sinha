@@ -49,4 +49,4 @@
    <a href="https://github.com/Samrat-Sinha"><img alt="Samrat-Sinha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samrat-Sinha&custom_title=Samrat's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   <h2 align="left">🐍 Github Snake Actions </h2>
-  <img align="center" alt ="Coding" width = "100%"  src ="https://github.com/Samrat-Sinha/Samrat-Sinha/blob/output/github-contribution-grid-snake.gif">
+<!--   <img align="center" alt ="Coding" width = "100%"  src ="https://github.com/Samrat-Sinha/Samrat-Sinha/blob/output/github-contribution-grid-snake.gif"> -->
