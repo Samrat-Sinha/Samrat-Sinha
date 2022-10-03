@@ -41,7 +41,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-Sinha&layout=compact&exclude_repo=SHOP.COM-clone,OPPO-India-Clone,Portfolio&border_radius=0&theme=dark" alt="Samrat-Sinha" height="139"/>
 </p>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=samrat-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="samrat-sinha" /></p>
+
+<h2 align="left">👤 Githubs Visitor Count<br></h2>
+<img align="center" src="https://profile-counter.glitch.me/Samrat-Sinha/count.svg"/>
+
 
 <h2 align="left">📈 Github Activity </h2>
  
