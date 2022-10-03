@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences and Knowledge [here](https://samrat-sinha.github.io/)
 
-- ⚡ Fun fact - **It's easy to calculate a tip without a calculator. 😁**
+- ⚡ Fun fact - **there is no place like 127.0.0.1 💯**
 
 <h2 align="left">📱 Connect with me</h2>
 <p align="left">
