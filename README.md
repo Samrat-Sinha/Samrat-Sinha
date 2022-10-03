@@ -5,7 +5,7 @@
 
 
 <h2 align="left">🧑‍💻 Profile</h2>
-<h3 align="left">Innovative optimized solution seeker. Excited to be at the deployment phase of my new career as a Java Developer. Technically proficient and analytical problem solver with calm and focused demeanor.</h3>
+<h3 align="left"> Innovative optimized solution seeker. Excited to be at the deployment phase of my new career as a Java Developer. Technically proficient and analytical problem solver with calm and focused demeanor. </h3>
 <img align="right" alt ="Coding" width = "400" src ="https://bayanbox.ir/view/4124439541593829365/webdevelopment10.gif">
 
 
