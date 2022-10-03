@@ -40,9 +40,9 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samrat-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="samrat-sinha" /></p>
 
-<h2 align="left">🐍 Github Activity </h2>
+<h2 align="left">📈 Github Activity </h2>
  
    <a href="https://github.com/Samrat-Sinha"><img alt="Samrat-Sinha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samrat-Sinha&custom_title=Samrat's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-  <h2 align="left">📈 Github Snake Actions </h2>
+  <h2 align="left">🐍 Github Snake Actions </h2>
   <img align="center" alt ="Coding" width = "100%" theme="react-dark" src ="https://github.com/Samrat-Sinha/Samrat-Sinha/blob/output/github-contribution-grid-snake.gif">
