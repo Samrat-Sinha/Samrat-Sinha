@@ -44,3 +44,5 @@
  
    <a href="https://github.com/Samrat-Sinha"><img alt="Samrat-Sinha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samrat-Sinha&custom_title=Samrat's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+  
+  <img align="center" alt ="Coding" width = "100%" theme="react-dark" src ="https://github.com/Samrat-Sinha/Samrat-Sinha/blob/output/github-contribution-grid-snake.gif">
