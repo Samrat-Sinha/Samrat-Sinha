@@ -1,5 +1,6 @@
-[![MasterHead](https://www.turing.com/_next/image?url=https%3A%2F%2Fd2mk45aasx86xg.cloudfront.net%2Fshutterstock_1689980737_adf7a3b16b.jpg&w=2048&q=75)](https:Samrat-Sinha.io)
 
+
+![backend-copy-1600x900](https://user-images.githubusercontent.com/101389007/193702943-d84541fc-4d7b-4ca4-819a-8b57dec44e5f.jpg)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=Hello👋,+I'm+Samrat...." alt="Typing SVG" /></a>
 
