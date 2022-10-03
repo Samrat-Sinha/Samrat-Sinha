@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences and Knowledge [here](https://samrat-sinha.github.io/)
 
-- ⚡ Fun fact - **there is no place like 127.0.0.1 💯**
+- ⚡ Fun fact - **There is no place like 127.0.0.1 💯%**
 
 <h2 align="left">📱 Connect with me</h2>
 <p align="left">
