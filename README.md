@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b6/01/96/b6019645c6c9aa37f982462d8ac8de7b.jpg)](https:Samrat-Sinha.io)
+[![MasterHead](https://www.turing.com/_next/image?url=https%3A%2F%2Fd2mk45aasx86xg.cloudfront.net%2Fshutterstock_1689980737_adf7a3b16b.jpg&w=2048&q=75)](https:Samrat-Sinha.io)
 <h1 align="center">Hi 👋, I'm Samrat Sinha</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt ="Coding" width = "400" src ="https://bayanbox.ir/view/4124439541593829365/webdevelopment10.gif">
