@@ -37,10 +37,10 @@
   &nbsp&nbsp&nbsp&nbsp
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-Sinha&layout=compact&exclude_repo=SHOP.COM-clone,OPPO-India-Clone,Portfolio&border_radius=0&theme=dark" alt="Samrat-Sinha" height="139"/>
 </p>
+<br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samrat-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="samrat-sinha" /></p>
 
-
 <h2 align="left">📈 Github Activity </h2>
- <br/>
+ 
    <a href="https://github.com/Samrat-Sinha"><img alt="Samrat-Sinha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samrat-Sinha&custom_title=Samrat's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
