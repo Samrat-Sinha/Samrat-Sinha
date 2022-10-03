@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences and Knowledge [here](https://samrat-sinha.github.io/)
 
-- ⚡ Fun fact - **A year before I didn't know a single line of coding 😁**
+- ⚡ Fun fact - **It's easy to calculate a tip without a calculator. 😁**
 
 <h2 align="left">📱 Connect with me</h2>
 <p align="left">
