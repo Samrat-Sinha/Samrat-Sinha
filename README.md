@@ -38,7 +38,7 @@
 <h2 align="left">🏳️ Github Statistics</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samrat-Sinha&show_icons=true&theme=highcontrast" alt="Samrat-Sinha" height="160"/>
-  &nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-Sinha&layout=compact&theme=highcontrast" alt="Samrat-Sinha"  height="160"/>
 </p>
 
