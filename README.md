@@ -2,7 +2,7 @@
 
 ![backend-copy-1600x900](https://user-images.githubusercontent.com/101389007/193702943-d84541fc-4d7b-4ca4-819a-8b57dec44e5f.jpg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=Hello👋,+I'm+Samrat...." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=6000&pause=1000&color=990011&center=true&vCenter=true&width=435&lines=Hello++%F0%9F%91%8B%2C+I+am+Samrat.....)](https://git.io/typing-svg)
 
 
 <h2 align="left">🧑‍💻 Profile</h2>
@@ -37,9 +37,9 @@
 
 <h2 align="left">🏳️ Github Statistics</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samrat-Sinha&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Samrat-Sinha" height="139" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samrat-Sinha&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=highcontrast" alt="Samrat-Sinha" height="139" />
   &nbsp&nbsp&nbsp&nbsp
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-Sinha&layout=compact&exclude_repo=SHOP.COM-clone,OPPO-India-Clone,Portfolio&border_radius=0&theme=dark" alt="Samrat-Sinha" height="139"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-Sinha&layout=compact&exclude_repo=SHOP.COM-clone,OPPO-India-Clone,Portfolio&border_radius=0&theme=highcontrast" alt="Samrat-Sinha" height="139"/>
 </p>
 <br/>
 
@@ -47,7 +47,7 @@
 
 <h2 align="left">📈 Github Activity </h2>
  
-   <a href="https://github.com/Samrat-Sinha"><img alt="Samrat-Sinha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samrat-Sinha&custom_title=Samrat's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Samrat-Sinha"><img alt="Samrat-Sinha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samrat-Sinha&custom_title=Samrat's%20Contribution%20Graph&theme=merko" /></a>
   <br/>
   <h2 align="left">🐍 Github Snake Actions </h2>
   <img align="center" alt ="Coding" width = "100%"  height = "100%"src ="https://github.com/Samrat-Sinha/Samrat-Sinha/blob/output/github-contribution-grid-snake.svg"> 
