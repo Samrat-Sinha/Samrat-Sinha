@@ -1,5 +1,6 @@
+![pic](https://user-images.githubusercontent.com/101389007/193757765-40e4472a-e954-4dff-8183-d2120d223c15.jpg)
 
-![pic](https://user-images.githubusercontent.com/101389007/193757374-0dfd2ccb-78f3-49ac-af78-7595d1ef1bfc.jpg)
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=Hello👋,+I'm+Samrat...." alt="Typing SVG" /></a>
 
