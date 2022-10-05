@@ -38,7 +38,7 @@
 
 <h2 align="left">🏳️ Github Statistics</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samrat-Sinha&bg_color=0d1117&title_color=adbac7&text_color=adbac7&icon_color=ff6600&border_color=30363d&show_icons=true&custom_title=Code%20Stats&count_private=true" alt="Samrat-Sinha" height="160"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samrat-Sinha&bg_color=0d1117&title_color=ff6600&text_color=adbac7&icon_color=ff6600&border_color=30363d&show_icons=true&custom_title=Code%20Stats&count_private=true" alt="Samrat-Sinha" height="160"/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-Sinha&layout=compact&bg_color=0d1117&title_color=adbac7&text_color=adbac7&border_color=30363d&langs_count=8" alt="Samrat-Sinha"  height="160"/>
 </p>
