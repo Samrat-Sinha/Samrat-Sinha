@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning **Java , Hibernate , SQL , Spring**
 
-- 📫 You will find me at **smrtsnh1995@gmail.com**
+- 📫 You will find me at 👉  [【﻿ 𝖘𝖒𝖗𝖙𝖘𝖓𝖍1995@𝖌𝖒𝖆𝖎𝖑.𝖈𝖔𝖒】](mailto:smrtsnh1995@gmail.com)     
 
-- 📄 Know about my experiences and Knowledge [here](https://samrat-sinha.github.io/)
+- 📄 Know about my experiences and Knowledge 👉 [【﻿𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚】](https://samrat-sinha.github.io/)
 
 - ⚡ Fun fact - **There is no place like 127.0.0.1 💯%**
 
