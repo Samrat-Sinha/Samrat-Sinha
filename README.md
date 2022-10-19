@@ -49,6 +49,7 @@
 
 <h2 align="left">📈 Github Activity </h2>
  
+   <a href="https://github.com/Samrat-Sinha"><img alt="Samrat-Sinha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samrat-Sinha&custom_title=Samrat's%20Contribution%20Graph&theme=react-dark" /></a>
  
   <br/>
   <h2 align="left">🐍 Github Snake Actions </h2>
