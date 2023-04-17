@@ -48,5 +48,5 @@
 
 <h2 align="left">📈 Github Activity </h2>
  
-  <a href="https://github.com/Samrat-Sinha"><img alt="Samrat Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Samrat-Sinha&bg_color=0d1117&color=adbac7&line=a96aa5&point=000000&area=true&hide_border=true" /></a>
+  <a href="https://github.com/Samrat-Sinha"><img alt="Samrat Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Samrat-Sinha&bg_color=0d1117&title_color=adbac7&text_color=adbac7&border_color=30363d&line=a96aa5&point=000000&area=true&hide_border=true" /></a>
 
